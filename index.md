@@ -8,3 +8,7 @@
 ``` javascript
 let isOpen=true;
 ```
+- [ ] Not Done Yet
+- [x] Done Perfectly
+- [ ] Not Done Yet
+- [ ] End of a list
